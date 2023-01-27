@@ -1,0 +1,27 @@
+[
+  {
+    "id": "0",
+    "name": "Michael",
+    "email": "michael@osensus.com"
+  },
+  {
+    "id": "1",
+    "name": "Jim",
+    "email": "jim@osensus.com"
+  },
+  {
+    "id": "2",
+    "name": "Angela",
+    "email": "angela@osensus.com"
+  },
+  {
+    "id": "3",
+    "name": "Oscar",
+    "email": "oscar@osensus.com"
+  },
+  {
+    "id": "4",
+    "name": "Dwight",
+    "email": "dwight@osensus.com"
+  }
+]
